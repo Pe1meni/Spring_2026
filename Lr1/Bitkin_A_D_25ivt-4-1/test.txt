@@ -1,3 +1,0 @@
-new Test
-new Test 2
-new Test 3
